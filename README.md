@@ -10,4 +10,4 @@ Societies can categories themself as technical or non-technical and more domains
 Students on the other hand can Upvote or downvote a post (Which provides insights to societies about their events)
 Students would only see the posts in their feeds which they have categorized (technical or non-technical and other sub-domains)
 
-Keeping in view  Security and Privacy, all the passwords are Hashed and Certiain Procedures are followed to curb SQL-Injection.
+Keeping in view  Security and Privacy, all the passwords are Hashed and Certain Procedures are followed to curb SQL-Injection.
