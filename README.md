@@ -3,6 +3,7 @@ My Project in Hackowasp (incomplete)
 -------------------------------
 Our idea was to bring Societies and Clubs under one roof to connect them to students of a college.
 We have Society Page and Student Page
+
 Societies can Submit Posts with details regarding Events/Gathering once in a week.(So as to make them more creative about what they post).
 Societies can categories themself as technical or non-technical and more domains.
 
